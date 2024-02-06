@@ -3,6 +3,11 @@ package exercise1;
 import java.util.Random;
 import java.util.Scanner;
 
+/**  edited
+ *  i am sidhak
+ * @author gills
+ */
+
 public class CardTrick {
 
     public static void main(String[] args) {
